@@ -51,5 +51,3 @@ float mc_pi(int a){
     float k = 4*count/a;
     return k;
 }
-
-
